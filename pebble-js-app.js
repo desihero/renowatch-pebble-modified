@@ -3,7 +3,7 @@
 // Register for an API Key here https://darksky.net/dev
 //
 //
-var API_KEY = "SECRETKEYHERE";
+var API_KEY = "bb45b625dd47d9139bccf20fc637e605";
 //
 //
 //
